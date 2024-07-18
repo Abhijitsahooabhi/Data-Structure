@@ -18,7 +18,7 @@ This repository contains a collection of Data Structure programs implemented in 
 
 To browse the code:
 
-1. Navigate to the 'src' directory.
+1. Navigate to the '[src](src)' directory.
 2. Select the program you are interested in.
 
 ## How to Run the Programs
@@ -30,6 +30,11 @@ To run any of the Data Structure programs in this repository, follow these steps
 3. Compile the program using the command:
    ```bash
    gcc -o program_name program_name.c
+   ```
+ 4.  Run the compiled program using the command:
+   ```bash
+   ./program_name
+   ```
 
 ## Acknowledgements
 
